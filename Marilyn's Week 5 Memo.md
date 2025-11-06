@@ -8,13 +8,4 @@ I also ran into trouble with Hypothesis during the digital literacy reading, alt
 
 I’m also recognizing my improvement. I felt very unsure of myself during Module 1 — especially around how to structure my `.md` files, upload them, and stay organized in the repository. But now I feel more stable. I understand my workflow better, I know how to set things up, and that’s giving me confidence as we move forward. Even though I know there will be more complex coding coming up in Week 6, I feel ready. I feel like I’ve found my rhythm.
 
----
-
-If you'd like, I can now:
-
-1. **Merge everything into a final polished full `journal.md`**
-2. Help you create a **clean folder structure** in your repo
-3. Or help you write your *commit message* so it sounds crisp and intentional
-
-Which one feels helpful right now? 💛
 
