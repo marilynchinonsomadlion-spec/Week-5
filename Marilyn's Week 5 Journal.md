@@ -40,7 +40,37 @@ The readings reinforced the idea that research is strongest when it is *shared* 
 
 Both the readings and the lectures suggest that collaboration is not an accessory to archaeology; it is **the method**. Shared inquiry creates shared truth.
 
+### Reflection on Digital Literacy and Data Reuse
 
+One of the readings that stayed with me this week was the discussion of digital literacy and data reuse. There’s a popular question: *What’s in a name?* And the answer, according to this reading, is **everything**. But that everything is only meaningful if we know how to *read* it.
+
+The reuse of archaeological data requires an understanding of the **context** in which it was collected:
+
+* Who gathered it
+* What they thought was important
+* The descriptive language they used
+* The assumptions and frameworks shaping their interpretation
+
+If I, as an archaeologist, inherit a dataset that someone else created, I am also inheriting their language and worldview. And because there is **no widely shared, standardized digital literacy** in archaeology, data becomes extremely difficult to pass on. The records may exist, but the meanings become inaccessible.
+
+So the question becomes:
+**How do we reuse data when we don’t share the same literacy to interpret it?**
+
+If there is no common language, then each dataset risks becoming isolated. Information can be archived yet still lost. The loss is not physical, but interpretative. We end up with records that are present and preserved, but effectively unreadable.
+
+This means that a *lack of shared digital literacy is itself a form of historical erasure.*
+
+It made me think about how many stories might already be lost simply because:
+
+* the data was stored without communal interpretive tools,
+* the knowledge required to read it wasn’t passed down,
+* or the people receiving the archive didn’t have access to the frameworks needed to understand it.
+
+We always talk about history being erased intentionally, but this showed me a quieter kind of erasure:
+**the erasure that happens when things are preserved without the means to interpret them.**
+
+Digital archaeology, then, is not only about collecting data.
+It is about *teaching the language* of that data.
 
 ### Emerging Personal Understanding
 
